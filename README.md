@@ -1,0 +1,2 @@
+# Esqueleto.pagina
+ Esqueleto.pagina
